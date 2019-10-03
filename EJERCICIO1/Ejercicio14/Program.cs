@@ -9,7 +9,7 @@ namespace Ejercicio14
             // Calcular la media de la clase
             //Escribir los alumnos cuya nota es mayor que la media.
             //Calcular la nota máxima y quienes la han conseguido
-            //Calcular la nota mínima y quienes la han conseguido
+            //Calcular la nota mínima y quienes la han conseguido l
 
             Console.WriteLine("cuantos alumnos hay: ");
             int numeroAlumnos = Convert.ToInt32(Console.ReadLine());
